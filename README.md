@@ -1,1 +1,2 @@
 # Random
+For practice assignments.
